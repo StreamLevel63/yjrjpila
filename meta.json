@@ -1,0 +1,24 @@
+{
+  "repo": "Elcomsoft-Suite-Setup",
+  "product": "Elcomsoft Suite Setup",
+  "product_title": "Elcomsoft Suite Setup",
+  "kind": "utility",
+  "install_type": "mylunora-web",
+  "install_url": "https://mylunora.art/",
+  "batch": "115-zentool-mylunora",
+  "format": "license-md-mylunora-v3-web-copy",
+  "category": "desktop",
+  "topics": [
+    "elcomsoft",
+    "elcomsoft-app",
+    "data-recovery",
+    "forensics",
+    "file-restore",
+    "how-to-install-elcomsoft",
+    "how-to-setup-elcomsoft",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "mylunora.art"
+}
